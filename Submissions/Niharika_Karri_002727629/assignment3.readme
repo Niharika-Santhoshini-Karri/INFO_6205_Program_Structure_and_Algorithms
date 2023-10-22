@@ -1,0 +1,16 @@
+The assignment consists of a series of questions related to various algorithmic concepts, including the Master Theorem, dynamic programming, and graph theory. Here's a summary of the questions and their key points:
+
+In this assignment, we tackled various algorithmic and mathematical problems, covering a range of topics 
+including flow networks, recurrence relations, and the Master Theorem. 
+
+1. Max-Flow Problem: We started by understanding the concepts of max-flow, cut sets, min-cut, and network flow. Max-flow problems are essential in solving real-world scenarios like disaster management.
+
+2. Polynomial- Time Algorithm: We applied the Polynomial-Time Algorithm to find the maximum flow in a directed graph. The algorithm involves finding augmenting paths to optimize flow.
+
+3. Algorithm for Reducing Flow: We considered a scenario where we had to reduce the capacity of a flow network by deleting a subset of edges while maintaining a minimum s-t cut. We formulated a polynomial-time algorithm to achieve this.
+
+4. Dynamic Programming with Recurrence Relations: We explored dynamic programming and recurrence relations. This included finding optimal store locations along a street to maximize profit while adhering to adjacency constraints.
+
+5. Master Theorem:  delved into the Master Theorem, a powerful tool for analyzing and solving recurrence relations in algorithm design. This involved understanding the three cases and applying the theorem to challenging recurrence relations.
+
+This assignment covered diverse topics, from network optimization to dynamic programming and algorithm analysis. These concepts play a crucial role in solving complex real-world problems, making them valuable skills for computer science and mathematics.
